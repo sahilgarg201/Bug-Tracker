@@ -1,0 +1,1 @@
+The Bug tracking management system will help IT companies to manage the bugs and resolve them with a proper flow and procedures. The bug management applications includes many functionalities to find bugs in a code, track the debugging process, assign bugs to employees, check the validity of the updated code, contact other team employees for references etc.
